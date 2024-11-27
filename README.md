@@ -1,4 +1,4 @@
-# Data Preprocessing and Model Training Repository  {Traffic_Data_Analysis_Rawalpindi-Punjab}
+# Data Preprocessing and Model Training {Traffic_Data_Analysis_Rawalpindi-Punjab}
 
 This repository contains a project for preprocessing an unclean dataset, training various machine learning models, and evaluating their performance using several metrics. The project is divided into multiple phases, each focusing on different aspects of model training and evaluation.
 
