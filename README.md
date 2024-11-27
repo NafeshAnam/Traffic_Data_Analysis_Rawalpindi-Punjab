@@ -12,11 +12,13 @@ This repository contains a project for preprocessing an unclean dataset, trainin
    - Data Preprocessing and Logistic Regression
 
 
-1.  Data Preprocessing:
+#  Data Preprocessing:
 
-    - Apply necessary data cleaning and preprocessing steps to prepare the dataset for model training.
 
-2.  Logistic Regression:
+   - Apply necessary data cleaning and preprocessing steps to prepare the dataset for model training.
+     
+
+1.   Logistic Regression:
 
   - Train a Logistic Regression model on the training set.
   - Test the trained model on the test set.
@@ -28,7 +30,7 @@ This repository contains a project for preprocessing an unclean dataset, trainin
   - F1 Score
 
   
-3.  Learning Curves:
+2.   Learning Curves:
 
 - Plot the following learning curves for Logistic Regression:
   
