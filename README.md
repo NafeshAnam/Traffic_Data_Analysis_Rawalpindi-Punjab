@@ -1,7 +1,4 @@
-# Traffic_Data_Analysis_Rawalpindi-Punjab
-
-
-# Data Preprocessing and Model Training Repository
+# Data Preprocessing and Model Training Repository  {Traffic_Data_Analysis_Rawalpindi-Punjab}
 
 This repository contains a project for preprocessing an unclean dataset, training various machine learning models, and evaluating their performance using several metrics. The project is divided into multiple phases, each focusing on different aspects of model training and evaluation.
 
@@ -12,23 +9,23 @@ This repository contains a project for preprocessing an unclean dataset, trainin
 
 # Project Structure
 
-- Data Preprocessing and Logistic Regression
+   - Data Preprocessing and Logistic Regression
 
 
 1.  Data Preprocessing:
 
-  - Apply necessary data cleaning and preprocessing steps to prepare the dataset for model training.
+    - Apply necessary data cleaning and preprocessing steps to prepare the dataset for model training.
 
 2.  Logistic Regression:
 
-- Train a Logistic Regression model on the training set.
-- Test the trained model on the test set.
-- Evaluate the model's performance using the following metrics:
-- Accuracy
-- Confusion Matrix
-- Precision
-- Recall
-- F1 Score
+  - Train a Logistic Regression model on the training set.
+  - Test the trained model on the test set.
+  - Evaluate the model's performance using the following metrics:
+  - Accuracy
+  - Confusion Matrix
+  - Precision
+  - Recall
+  - F1 Score
 
   
 3.  Learning Curves:
