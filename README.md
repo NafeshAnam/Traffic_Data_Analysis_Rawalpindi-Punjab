@@ -9,7 +9,15 @@ This repository contains a project for preprocessing an unclean dataset, trainin
 
 # Project Structure
 
-   - Data Preprocessing and Logistic Regression
+   - Data Preprocessing 
+   - Model Training including  
+       - Logistic Regression
+       - Decision Tree
+       - Random Forest
+       - XGBoost
+       - Support Vector Machine (SVM)
+       - Artificial Neural Network (ANN)
+         
 
 
 #  Data Preprocessing:
