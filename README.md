@@ -10,7 +10,7 @@ This repository contains a project for preprocessing an unclean dataset, trainin
 # Project Structure
 
    - Data Preprocessing 
-   - Model Training including  
+   - Model Training 
        - Logistic Regression
        - Decision Tree
        - Random Forest
